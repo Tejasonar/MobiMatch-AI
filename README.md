@@ -27,3 +27,5 @@ MobiMatch-AI goes beyond simple filtering. It evaluates technical specifications
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
+
+ 
